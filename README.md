@@ -48,6 +48,30 @@ Google colab notebook AluraStoreLatam.ipynb
 
 Se realizó basado en un análisis integral de KPIs como ingresos, calificaciones, productos más/menos vendidos, logística de envío y ubicación
 
+* **Ingreso total por cada tienda**
+  
+![Facturación](https://github.com/user-attachments/assets/a44f7d0e-60a8-4ac0-9409-50085ec827ca)
+
+* **Ventas por categoría**
+  
+![Productos](https://github.com/user-attachments/assets/3bfdf66a-5ddc-46da-a9cd-c71c320300fe)
+
+* **Valoración media por tienda**
+  
+![Promedio Satisfación](https://github.com/user-attachments/assets/f7bbf9e2-3ad9-46c8-836e-c1793851e333)
+
+* **Productos más vendidos y menos vendidos**
+  
+![Productos más y menos vendidos](https://github.com/user-attachments/assets/c95ea476-3b3b-444d-b7c4-f56447d6cd50)
+
+* **Valor del envío promedio por tienda**
+  
+![Promedio de envío](https://github.com/user-attachments/assets/2b96a188-4e19-4d63-ad23-da38dd253067)
+
+* **Análisis del desempeño geográfico**
+  
+![Rendimiento con geocalizador](https://github.com/user-attachments/assets/84c5c763-dcb2-4b55-8e7b-853f05019030)
+
 ## :warning: Posibles Problemas / Soluciones
 
 - **Problemas de compatibilidad con librerías**: Asegúrate de instalar las versiones correctas de las librerías si trabajas en local.
